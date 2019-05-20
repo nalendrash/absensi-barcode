@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "933050468351",
+    "firebase_url": "https://absen-81097.firebaseio.com",
+    "project_id": "absen-81097",
+    "storage_bucket": "absen-81097.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933050468351:android:f2ea57be0b6f5f66",
+        "android_client_info": {
+          "package_name": "nanz.absen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933050468351-efq65brl0sugo6ci7jkcouqcq0tk5dbo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nanz.absen",
+            "certificate_hash": "ac39c07df0d45587fe21f0a7cf7b1de81e9ff7f2"
+          }
+        },
+        {
+          "client_id": "933050468351-252mpq43g3cgeql4qjhe6tj6cd53ud51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNyQ76WmfWlL2v1ANFdPZPxJlb4EdspTs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933050468351-252mpq43g3cgeql4qjhe6tj6cd53ud51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
